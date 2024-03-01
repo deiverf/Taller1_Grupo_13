@@ -18,10 +18,12 @@ index_ejercicio_2.html -- Html donde está el botón que captura la dirección d
 
 El taller fue realizado por:
 
-Liney Torres Rodriguez
-Deivid Anderson Verano Fuentes
+Liney Torres Rodriguez.
+
+Deivid Anderson Verano Fuentes.
 
 los demás compañeros no pudieron desarrollar el taller por compromisos laborales:
 
-Joan Axel Pardo Burgos
-Cristian Piñeros
+Joan Axel Pardo Burgos.
+
+Cristian Piñeros.
