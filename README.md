@@ -21,9 +21,3 @@ El taller fue realizado por:
 Liney Torres Rodriguez.
 
 Deivid Anderson Verano Fuentes.
-
-los demás compañeros no pudieron desarrollar el taller por compromisos laborales:
-
-Joan Axel Pardo Burgos.
-
-Cristian Piñeros.
